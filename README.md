@@ -10,3 +10,4 @@
 - [List of built-in sagemaker algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [Responsible AI principles](https://aws.amazon.com/ai/responsible-ai/)
 - [Services and features helping with getting to responsible AI](https://docs.aws.amazon.com/sagemaker/latest/dg/model-explainability.html)
+- [ELIZA effect, people getting attached to machines - something to try to avoid with responsible AI](https://www.ibm.com/think/insights/eliza-effect-avoiding-emotional-attachment-to-ai)
