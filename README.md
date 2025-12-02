@@ -7,4 +7,4 @@
 # Day 1 links
 - [History of artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
 - [Neural network zoo, a decent collection of neural network architectures, with summary and link to the acedmic paper that discussed the topic](https://www.asimovinstitute.org/neural-network-zoo/)
-- 
+- [List of built-in sagemaker algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
