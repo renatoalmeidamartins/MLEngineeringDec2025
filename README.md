@@ -13,3 +13,6 @@
 - [ELIZA effect, people getting attached to machines - something to try to avoid with responsible AI](https://www.ibm.com/think/insights/eliza-effect-avoiding-emotional-attachment-to-ai)
 - [Approaches to customize Sagemaker models - using pre-build images, bringing custom conatiners and other approahces](https://docs.aws.amazon.com/sagemaker/latest/dg/docker-containers.html)
 - [Sagemaker - bring your own script ](https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/)
+- [Medallion architecture for data lakes](https://www.databricks.com/glossary/medallion-architecture)
+- [Similar pattern to the medallion architecture, described in "The hitchhiker's guide to the galaxy"](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/)
+- 
