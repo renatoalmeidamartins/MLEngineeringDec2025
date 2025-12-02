@@ -15,4 +15,7 @@
 - [Sagemaker - bring your own script ](https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/)
 - [Medallion architecture for data lakes](https://www.databricks.com/glossary/medallion-architecture)
 - [Similar pattern to the medallion architecture, described in "The hitchhiker's guide to the galaxy"](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/)
+- Data optmization strategies (examples for Glue and Athena, but they apply similarly to ML workloads):
+  - [Building a performance efficient data pipeline](https://docs.aws.amazon.com/ko_kr/whitepapers/latest/aws-glue-best-practices-build-performant-data-pipeline/building-a-performance-efficient-data-pipeline.html)
+  - [Top 10 Performance Tuning Tips for Amazon Athena](https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena/)
 - 
