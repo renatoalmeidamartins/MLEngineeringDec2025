@@ -12,3 +12,4 @@
 - [Services and features helping with getting to responsible AI](https://docs.aws.amazon.com/sagemaker/latest/dg/model-explainability.html)
 - [ELIZA effect, people getting attached to machines - something to try to avoid with responsible AI](https://www.ibm.com/think/insights/eliza-effect-avoiding-emotional-attachment-to-ai)
 - [Approaches to customize Sagemaker models - using pre-build images, bringing custom conatiners and other approahces](https://docs.aws.amazon.com/sagemaker/latest/dg/docker-containers.html)
+- [Sagemaker - bring your own script ](https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/)
