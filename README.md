@@ -20,3 +20,5 @@
   - [Building a performance efficient data pipeline](https://docs.aws.amazon.com/ko_kr/whitepapers/latest/aws-glue-best-practices-build-performant-data-pipeline/building-a-performance-efficient-data-pipeline.html)
   - [Top 10 Performance Tuning Tips for Amazon Athena](https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena/)
 - [PCA - Principal Component Analysis - helpful to reduce the dimensionality of a dataset, as available in Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/pca.html)
+# Day 2 links
+- [Announcing S3 tables, a fully managed Apache Iceberg storage](https://aws.amazon.com/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/)
