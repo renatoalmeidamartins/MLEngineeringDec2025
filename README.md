@@ -30,3 +30,5 @@
 - [Multi-container endpoints](https://docs.aws.amazon.com/sagemaker/latest/dg/multi-container-endpoints.html)
 - [Inference pipelines](https://docs.aws.amazon.com/sagemaker/latest/dg/inference-pipelines.html)
 - [Sagemaker Python SDK](https://github.com/aws/sagemaker-python-sdk)
+- [Special purpose instances for inferencing - Built on Inferentia processors](https://aws.amazon.com/ec2/instance-types/inf1/)
+- [Special puprose instances for training - Built on Trainium processors](https://aws.amazon.com/ec2/instance-types/trn1/)
