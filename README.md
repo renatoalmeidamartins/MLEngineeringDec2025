@@ -22,3 +22,5 @@
 - [PCA - Principal Component Analysis - helpful to reduce the dimensionality of a dataset, as available in Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/pca.html)
 # Day 2 links
 - [Announcing S3 tables, a fully managed Apache Iceberg storage](https://aws.amazon.com/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/)
+- [Nice tutorial showing data Wrangler usage end-to-end](https://docs.aws.amazon.com/hands-on/latest/machine-learning-tutorial-prepare-data-with-minimal-code/machine-learning-tutorial-prepare-data-with-minimal-code.html)
+- [Techniques for balancing datasets using Data Wrangler](https://aws.amazon.com/blogs/machine-learning/balance-your-data-for-machine-learning-with-amazon-sagemaker-data-wrangler/)
