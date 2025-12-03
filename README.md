@@ -29,3 +29,4 @@
 - [Automatic model tuning on Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning-ex-tuning-job.html)
 - [Multi-container endpoints](https://docs.aws.amazon.com/sagemaker/latest/dg/multi-container-endpoints.html)
 - [Inference pipelines](https://docs.aws.amazon.com/sagemaker/latest/dg/inference-pipelines.html)
+- [Sagemaker Python SDK](https://github.com/aws/sagemaker-python-sdk)
