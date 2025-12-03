@@ -25,3 +25,4 @@
 - [Nice tutorial showing data Wrangler usage end-to-end](https://docs.aws.amazon.com/hands-on/latest/machine-learning-tutorial-prepare-data-with-minimal-code/machine-learning-tutorial-prepare-data-with-minimal-code.html)
 - [Techniques for balancing datasets using Data Wrangler](https://aws.amazon.com/blogs/machine-learning/balance-your-data-for-machine-learning-with-amazon-sagemaker-data-wrangler/)
 - [Example os using transfer learning in Sagemaker - for image processing on TensorFlow](https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker/)
+- [Hyper-parameter tuning strategies - Bayesian, Random Search, Grid Search](https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning-how-it-works.html)
