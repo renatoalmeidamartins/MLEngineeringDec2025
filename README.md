@@ -5,6 +5,11 @@
 - [Skill builder catalog for prepping for the Machine Learning Engineer Associate exam](https://skillbuilder.aws/category/exam-prep/machine-learning-engineer-associate-MLA-C01)
 - [Skill Builder learning plan for prepping the ML Engineer Associate exam, which includes labs. These labs are extremely similar to the labs in the class](https://skillbuilder.aws/learning-plan/AY5A6VN52B/aws-ml-engineer-associate-learning-plan-includes-labs/C21UPEK6R9)
 
+# My contact details
+- [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
+- Email: renatoalmeidamartins@gmail.com
+
+
 # Day 1 links
 - [History of artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
 - [Neural network zoo, a decent collection of neural network architectures, with summary and link to the acedmic paper that discussed the topic](https://www.asimovinstitute.org/neural-network-zoo/)
