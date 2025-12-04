@@ -32,3 +32,12 @@
 - [Sagemaker Python SDK](https://github.com/aws/sagemaker-python-sdk)
 - [Special purpose instances for inferencing - Built on Inferentia processors](https://aws.amazon.com/ec2/instance-types/inf1/)
 - [Special puprose instances for training - Built on Trainium processors](https://aws.amazon.com/ec2/instance-types/trn1/)
+
+# Day 3 links
+- [Transfer learning defined](https://aws.amazon.com/what-is/transfer-learning/)
+- [Sagemaker projects](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects.html)
+- [CodeCommit is back, making the once-unsupported projects supported again](https://aws.amazon.com/blogs/devops/how-to-migrate-your-aws-codecommit-repository-to-another-git-provider/)
+- [Applied example for transfer learning](https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker/)
+- [Sagemaker model monitor](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html)
+- [Sagemaker studio projects]()
+- 
