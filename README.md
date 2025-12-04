@@ -9,6 +9,11 @@
 - [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
 - Email: renatoalmeidamartins@gmail.com
 
+# Class evaluation
+- Go to [aws.training](https://www.aws.training/)
+- Click sign in, log in with the same account you used to access the lab and course materials
+- Then go on the top right to My Account, then transcript, click on the Archived section (direct link [https://www.aws.training/Account/Transcript/Archived](https://www.aws.training/Account/Transcript/Archived)
+- You should see the class, with a button to evaluate
 
 # Day 1 links
 - [History of artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
